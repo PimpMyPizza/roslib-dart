@@ -1,8 +1,8 @@
-import 'package:roslibdart/roslibdart.dart';
-import 'package:test/test.dart';
+//import 'package:ros2_web_bridge/roslibdart.dart';
+//import 'package:test/test.dart';
 
 void main() {
-  group('A group of tests', () {
+  /*group('A group of tests', () {
     Awesome awesome;
 
     setUp(() {
@@ -12,5 +12,5 @@ void main() {
     test('First Test', () {
       expect(awesome.isAwesome, isTrue);
     });
-  });
+  });*/
 }

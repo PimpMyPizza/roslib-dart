@@ -1,5 +1,5 @@
-name: roslibdart
-description: A Dart library to communicate with the ROS2 version of the rosbridge_suite
+name: ros2_web_bridge
+description: A Dart library to communicate with the ROS2-web-pridge tool
 version: 0.0.0
 homepage: https://github.com/PimpMyPizza/roslib-dart
 repository: https://github.com/PimpMyPizza/roslib-dart
